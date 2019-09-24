@@ -54,7 +54,7 @@ the benchmark parameter can pe passed as first command line argument, e.g.:
 
 ## C tests
 In order to execute C code through Graal, we need to compile the code to
-bitcode. Some C/C++ compilers support comilation to bitcode, e.g.
+bitcode. Some C/C++ compilers support compilation to bitcode, e.g.
 [`clang`][clang]. 
 
 ## Native Image build
