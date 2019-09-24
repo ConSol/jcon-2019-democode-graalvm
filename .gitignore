@@ -1,0 +1,9 @@
+.idea/
+target/
+venv/
+__pycache__/
+
+*.iml
+*.pyc
+*.bc
+dependency-reduced-pom.xml
